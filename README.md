@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Toyosi 👋
 
-<!--
-**Babz-code/Babz-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer in training (AltSchool Africa Backend Engineering Diploma, expected March 2027) with six years of experience in public-sector accounting and records management. I build REST APIs with Node.js, Express and MongoDB, and web apps with Python and Flask.
 
-Here are some ideas to get you started:
+## Projects
+- **Social App API** (Node.js, Express, MongoDB): JWT authentication, posts, likes, follow/unfollow, and a paginated, searchable feed. Deployed on Render with 23 passing tests.
+- **Blog Application with Authentication** (Python, Flask, SQLAlchemy): multi-user blog with Flask-Login, password hashing, and admin-only access control.
+- **Weather App** (JavaScript): live data from the Open-Meteo API using async/await.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+JavaScript · Node.js · Express · Python · Flask · MongoDB · SQLAlchemy · Git · GitHub · REST APIs
+
+## Background
+Accountant II at the Pension Transitional Arrangement Directorate, Abuja, with experience in pension computation, reconciliation and financial reporting.
+
+## Open to
+Remote backend development, code review and AI evaluation contract work.
+
+📫 Connect with me on LinkedIn: www.linkedin.com/in/toyosi-adeniyi-6b3b221b3
